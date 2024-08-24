@@ -1,5 +1,5 @@
 ![](https://github.com/Aleftina69/Aleftina69/blob/main/monitors-typing.gif)
-# Hi:wave:
+# Hi :wave:
 ## My name is Tishakova Aleftina
 
 ### Brief information about me
