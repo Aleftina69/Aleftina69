@@ -1,4 +1,6 @@
 <img src="https://github.com/Aleftina69/Aleftina69/blob/main/monitors-typing.gif" width="400" height="200"/>
+
+
 # Hi :wave:
 ## My name is Tishakova Aleftina
 
