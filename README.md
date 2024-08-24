@@ -1,4 +1,4 @@
-![](https:/github.com/Aleftina69/Aleftina69/blob/main/monitors-typing.gif)
+![](https://github.com/Aleftina69/Aleftina69/blob/main/monitors-typing.gif)
 # Hi:wave:
 ## My name is Tishakova Aleftina
 
