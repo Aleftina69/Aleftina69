@@ -12,6 +12,8 @@
 
 #### Here is my study projects:
 1.[job4j_tracker](https://github.com/Aleftina69/job4j_tracker)
+
 2.[Job4j. Блок базовый синтаксис.](https://github.com/Aleftina69/job4j_elementary)
+
 3.[games_oop_javafx](https://github.com/Aleftina69/games_oop_javafx?tab=readme-ov-file)
 
